@@ -1,0 +1,11 @@
+/Users/ferdieculibao/Documents/DevOpsVideoTut/DEVOPS_PROJECT/vprofile-project/src/main/java/com/visualpathit/account/service/UserServiceImpl.java
+/Users/ferdieculibao/Documents/DevOpsVideoTut/DEVOPS_PROJECT/vprofile-project/src/main/java/com/visualpathit/account/model/User.java
+/Users/ferdieculibao/Documents/DevOpsVideoTut/DEVOPS_PROJECT/vprofile-project/src/main/java/com/visualpathit/account/model/Role.java
+/Users/ferdieculibao/Documents/DevOpsVideoTut/DEVOPS_PROJECT/vprofile-project/src/main/java/com/visualpathit/account/repository/UserRepository.java
+/Users/ferdieculibao/Documents/DevOpsVideoTut/DEVOPS_PROJECT/vprofile-project/src/main/java/com/visualpathit/account/validator/UserValidator.java
+/Users/ferdieculibao/Documents/DevOpsVideoTut/DEVOPS_PROJECT/vprofile-project/src/main/java/com/visualpathit/account/service/SecurityService.java
+/Users/ferdieculibao/Documents/DevOpsVideoTut/DEVOPS_PROJECT/vprofile-project/src/main/java/com/visualpathit/account/service/UserDetailsServiceImpl.java
+/Users/ferdieculibao/Documents/DevOpsVideoTut/DEVOPS_PROJECT/vprofile-project/src/main/java/com/visualpathit/account/service/UserService.java
+/Users/ferdieculibao/Documents/DevOpsVideoTut/DEVOPS_PROJECT/vprofile-project/src/main/java/com/visualpathit/account/repository/RoleRepository.java
+/Users/ferdieculibao/Documents/DevOpsVideoTut/DEVOPS_PROJECT/vprofile-project/src/main/java/com/visualpathit/account/controller/UserController.java
+/Users/ferdieculibao/Documents/DevOpsVideoTut/DEVOPS_PROJECT/vprofile-project/src/main/java/com/visualpathit/account/service/SecurityServiceImpl.java
